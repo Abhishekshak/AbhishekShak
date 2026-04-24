@@ -18,7 +18,7 @@ I'm a BCA student specializing in full-stack and mobile development. I build MER
 
 - 🌱 Currently sharpening my skills in **React.js, Node.js, FastAPI & Docker**
 - 🤝 Open to **internship opportunities** in Full-Stack or QA roles
-- 📬 Reach me at **shakyaabhishek46@gmail.com** or **+977-9845672532**
+- 📬 Reach me at **shakyaabhishek46@gmail.com**
 
 ---
 
